@@ -1,0 +1,95 @@
+#u289,#u288,#u246,#u249,#u250,#u251
+{
+	border-color: #000000;
+	background: transparent url("../../images/cloud%20header.png") repeat-x center center;
+}
+
+#u256-4
+{
+	background-color: transparent;
+	color: #4897D5;
+	text-align: center;
+	font-size: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u263
+{
+	-pie-box-shadow: 6px 6px 8px #999999;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.4);
+	background-color: #80CCF6;
+	border-radius: 30px;
+	position: relative;
+}
+
+#u261-17,#u260-10,#u262-17,#u270-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u271-4
+{
+	background-color: transparent;
+	color: #80CCF6;
+	line-height: 13px;
+	text-align: center;
+	font-size: 11px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	position: relative;
+}
+
+#u272-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	position: relative;
+}
+
+#u285
+{
+	background-color: transparent;
+	border-radius: 30px;
+	position: relative;
+}
+
+#u257,#u279
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u253,#u268,#u264,#u266
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u282-4
+{
+	background-color: transparent;
+	color: #80CCF6;
+	line-height: 12px;
+	font-size: 10px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u284-4
+{
+	background-color: transparent;
+	color: #80CCF6;
+	line-height: 12px;
+	text-align: right;
+	font-size: 10px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+

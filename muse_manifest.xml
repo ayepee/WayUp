@@ -1,0 +1,59 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="wayupcampusrep.com" resolutions="1x,2x" timestamp="1455526746661">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_a-master.css" crc="49666865" ref="index"/>
+    <file name="index.css" crc="3793810216" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3812226603" ref="phone>index"/>
+    <file name="cloud header.png" crc="166816257" ref="phone>index:index"/>
+    <file name="2ly1rb7oc7_20160120276x193.png" crc="4006915642" seo="true" ref="phone>index"/>
+    <file name="2ly1rb7oc7_20160120276x193_2x.png" crc="452169226" seo="true" ref="phone>index"/>
+    <file name="u261-17.png" crc="370086506" ref="phone>index"/>
+    <file name="u261-17_2x.png" crc="121088221" ref="phone>index"/>
+    <file name="u260-10.png" crc="4251157850" ref="phone>index"/>
+    <file name="u260-10_2x.png" crc="4287693371" ref="phone>index"/>
+    <file name="u262-17.png" crc="4022604438" ref="phone>index"/>
+    <file name="u262-17_2x.png" crc="4068927156" ref="phone>index"/>
+    <file name="u270-4.png" crc="504570088" ref="phone>index"/>
+    <file name="u270-4_2x.png" crc="323395383" ref="phone>index"/>
+    <file name="wayup_plane_only_small72x42.png" crc="4229290955" seo="true" ref="phone>index"/>
+    <file name="wayup_plane_only_small72x42_2x.png" crc="4229290955" seo="true" ref="phone>index"/>
+    <file name="imageedit_2_243473328272x43.png" crc="3974213343" seo="true" ref="phone>index"/>
+    <file name="imageedit_2_243473328272x43_2x.png" crc="3974213343" seo="true" ref="phone>index"/>
+    <file name="wayup_plane_only_small30x18.png" crc="401639695" seo="true" ref="phone>index"/>
+    <file name="wayup_plane_only_small30x18_2x.png" crc="80908153" seo="true" ref="phone>index"/>
+    <file name="2ly1rb7oc7_20160120.png" crc="473800846" seo="true" ref="index"/>
+    <file name="2ly1rb7oc7_20160120_2x.png" crc="3995086281" seo="true" ref="index"/>
+    <file name="wayup_plane_only_small.png" crc="4229290955" seo="true" ref="index"/>
+    <file name="wayup_plane_only_small_2x.png" crc="4229290955" seo="true" ref="index"/>
+    <file name="u108-8.png" crc="4024482121" ref="index"/>
+    <file name="u108-8_2x.png" crc="4199867904" ref="index"/>
+    <file name="u109-19.png" crc="4073324004" ref="index"/>
+    <file name="u109-19_2x.png" crc="217742749" ref="index"/>
+    <file name="imageedit_2_2434733282.png" crc="3974213343" seo="true" ref="index"/>
+    <file name="imageedit_2_2434733282_2x.png" crc="3974213343" seo="true" ref="index"/>
+    <file name="u111-13.png" crc="4287006411" ref="index"/>
+    <file name="u111-13_2x.png" crc="169918558" ref="index"/>
+    <file name="u96-4.png" crc="4202804969" ref="index"/>
+    <file name="u96-4_2x.png" crc="449608168" ref="index"/>
+    <file name="wayup_plane_only_small58x34.png" crc="3908748837" seo="true" ref="index"/>
+    <file name="wayup_plane_only_small58x34_2x.png" crc="4229290955" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="180172905" ref="phone>index"/>
+      <file name="index.css" crc="271415863" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3844013102" seo="true" mt="1455526176608" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3898953994" seo="true" mt="1455526147542" redirect="true"/>
+</manifest>
